@@ -1,7 +1,7 @@
 # Sales Product Data Analysis
 
 ## About The Project
-Analyzing Nutrition values and calories consumption of daily meals over period of times.
+Analyzing all Product Sales over the year 2019.
 
 ## Built with
 
@@ -26,5 +26,6 @@ Refer to data folder or check kaggle's sales product data dataset [here](https:/
 - Should the company acquire new customers, and how much money should they spend on it
 
 ## Acknowledgements
-[Solving real world data science tasks with Python Pandas!](https://youtu.be/eMOA1pPVUc4)
 [10 Great Portfolio Projects for Business Analysis - Blog](https://www.dataquest.io/blog/10-great-portfolio-projects-for-business-analysis/)
+
+[Solving real world data science tasks with Python Pandas!](https://youtu.be/eMOA1pPVUc4)
