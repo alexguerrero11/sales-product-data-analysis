@@ -4,11 +4,7 @@
 Analyzing all Product Sales over the year 2019.
 
 ## Built with
-Python
-
-Jupyter Notebook
-
-
+Python | Jupyter Notebook
 
 ## Datasets
 
